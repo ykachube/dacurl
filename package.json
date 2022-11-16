@@ -1,0 +1,25 @@
+{
+  "name": "dacurl",
+  "version": "1.0.0",
+  "description": "nodejs curl implementaion to use via npx dacurl",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykachube/dacurl.git"
+  },
+  "keywords": [
+    "curl"
+  ],
+  "author": "yury kachubeyeu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ykachube/dacurl/issues"
+  },
+  "homepage": "https://github.com/ykachube/dacurl#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
