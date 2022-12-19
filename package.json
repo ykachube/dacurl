@@ -1,11 +1,11 @@
 {
   "name": "dacurl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "nodejs curl implementaion to use via npx dacurl",
-  "main": "index.js",
+  "main": "dacurl.js",
   "scripts": {
     "test": "test",
-    "dacurl": "node index.js"
+    "dacurl": "node dacurl.js"
   },
   "bin": {
     "dacurl":"./dacurl.js"
