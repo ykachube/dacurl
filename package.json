@@ -1,6 +1,6 @@
 {
   "name": "dacurl",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "nodejs curl implementaion to use via npx dacurl",
   "main": "dacurl.js",
   "scripts": {
